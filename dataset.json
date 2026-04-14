@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Market-wide restaurant data for Westminster in West Coast. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Westminster, California, US",
+  "export_job_id": "0fe45623-7772-4be7-aaa2-b945fdda8b49",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 766201,
+  "location_name": "Westminster",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-westminster-california-us-sample-766201",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/766201/beamstation_766201_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.77,
+  "sample_records": 26,
+  "sample_sha256": "1fd59fef4b362203cccbacb1a6668056151f9f45f0951af14a118c6b364d5cc7",
+  "sample_size_bytes": 106928,
+  "total_records": 266,
+  "updated_at": "2026-04-09T14:36:07.761098+00:00"
+}
