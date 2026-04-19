@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0fe45623-7772-4be7-aaa2-b945fdda8b49",
+  "export_job_id": "b141e4e2-b4e0-412d-a940-b7c737a2a404",
   "id_short": 766201,
-  "published_at": "2026-04-14T19:22:09Z",
+  "published_at": "2026-04-19T19:17:30Z",
   "repo_name": "all-restaurants-in-westminster-california-us-sample-766201",
   "sample_asset_name": "beamstation_766201_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/766201/beamstation_766201_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 26,
-  "sample_sha256": "1fd59fef4b362203cccbacb1a6668056151f9f45f0951af14a118c6b364d5cc7",
-  "sample_size_bytes": 106928,
-  "total_records": 266
+  "sample_records": 25,
+  "sample_sha256": "898ae7f257175c5455f10979d20ea7886061ba6e7df6044253b154fd2ca2c60e",
+  "sample_size_bytes": 100224,
+  "total_records": 254
 }
