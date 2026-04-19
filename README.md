@@ -1,6 +1,6 @@
 # All Restaurants in Westminster, California, US
 
-> Free BeamStation sample export with 26 rows and masked direct-contact fields.
+> Free BeamStation sample export with 25 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `766201` |
 | Location | Westminster |
 | Category | Restaurants |
-| Full dataset size | 266 records |
-| Free sample size | 26 records (9.77%) |
-| Last export | 2026-04-09T14:36:07.761098+00:00 |
+| Full dataset size | 254 records |
+| Free sample size | 25 records (9.84%) |
+| Last export | 2026-04-16T16:01:31.066206+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-westminster-california-us-sample-766201/releases/download/sample-latest/beamstation_766201_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
